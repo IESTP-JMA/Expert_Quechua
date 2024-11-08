@@ -1,7 +1,20 @@
 Ed.Experte_Quechua
-Título: ED.EXPERT
+# Título: ED.EXPERT
  
 Fuente: https://edexpert.my.canva.site/
+# problematica
+La falta de acceso a recursos educativos en quechua, la desconexión entre comunidades quechuahablantes y la complejidad de la lengua quechua limitan la capacidad de los estudiantes para aprender y conectar con la cultura.
+# solucion
+Nuestra web de educación en quechua ofrece una plataforma integral para aprender y compartir la lengua y cultura quechua.
+Preservar y promover la lengua y cultura quechua, conectando a comunidades, ciudades y facilitando el aprendizaje para todas las edades..
+# casos de uso
+![alt text](image.png)
+
+# mvp (formulario)
+La fuente que emos utilizado para crear nuestra mvp 
+es el formulario de (google forms) el cual tambien nos permite medir nuestro mvp.
+ -> https://docs.google.com/forms/d/e/1FAIpQLSfHyOjIp8ZqLIP8Yxjd9eYROFldk-JCcF9ajmU3awtbvVny2A/viewform?usp=sf_link
+ 
  
 Descripción: ED.EXPERT es un sitio web que ofrece cursos online de quechua. El sitio web presenta una interfaz simple y atractiva, con información clara sobre los cursos ofrecidos.
  
@@ -21,3 +34,14 @@ Fenómenos:
 Conclusión:
  
 ED.EXPERT es un sitio web útil para aquellos que desean aprender quechua. El sitio web ofrece una variedad de cursos en diferentes niveles, con información detallada y un proceso de inscripción sencillo.
+
+
+
+
+
+
+
+
+
+enlase de nuestro landing page 
+https://edexpert.my.canva.site/ 
